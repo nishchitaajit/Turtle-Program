@@ -1,0 +1,10 @@
+#var = 10
+move #var
+turn 90
+move 10
+turn -90
+#Ps = 3, 4
+repeat 2
+    distanceTo #s
+    bearingTo #s
+end

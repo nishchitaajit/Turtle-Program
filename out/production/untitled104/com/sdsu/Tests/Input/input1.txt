@@ -1,0 +1,8 @@
+#Ps = 3 4
+distanceTo #Ps
+bearingTo #Ps
+move 30
+turn 90
+move 20
+turn 90
+move 15

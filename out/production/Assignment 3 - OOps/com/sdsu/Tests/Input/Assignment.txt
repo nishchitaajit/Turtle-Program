@@ -1,0 +1,6 @@
+#Ps = 3, 4
+#Pt = 1, 1
+#d = distanceTo #s
+#a = bearingTo #t
+move #d
+turn #a

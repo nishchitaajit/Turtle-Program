@@ -1,0 +1,11 @@
+#variable = 10
+#degree = 90
+#count = 2
+repeat #count
+    move #variable
+    turn #degree
+end
+repeat 1
+    move 10
+    turn 90
+end

@@ -1,0 +1,6 @@
+move 10
+turn 90
+move 10
+turn -90
+#Ps = 3 4
+distanceTo #Ps

@@ -1,0 +1,14 @@
+#Ps = 10, 10
+#Pt = 10, 20
+#d = distanceTo #s
+#a = bearingTo #s
+turn #a
+move #d
+#u = bearingTo #t
+move 5
+turn 90
+move 5
+repeat 4
+turn 90
+move 10
+end
